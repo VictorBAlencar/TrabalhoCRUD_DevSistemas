@@ -14,6 +14,8 @@
       <li>nome (texto, único e obrigatório) </li> <br>
       <li>quantidade (inteiro, obrigatório) </li> <br>
       <li>preco (real, obrigatório) </li> <br>
+	  <li>categoria(opcional --> ideia do grupo*) </li> <br>
+	  <li>marca(opcional --> ideia do grupo*) </li> <br>
 		</ul>
   </ul>
 
